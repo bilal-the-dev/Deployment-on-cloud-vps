@@ -15,8 +15,8 @@ The steps are pretty easy. This guide is made on assumption you have read my gen
 
 - Open `command prompt`
 - Type `ssh root@[ip address here]` .e.g `ssh root@207.240.89.50` where root can vary, its the username.
-    - If this give you error then you need to add your port as well `ssh -p 5809 root@207.240.89.50`
-- It'll ask for password, after entering type `Y` to save the host.
+    - If this gives you error then you need to add your port as well `ssh -p 5809 root@207.240.89.50`
+- It'll ask for password, after entering type `Yes` to save the host.
 ![vps](https://cdn.writebots.com/wp-content/uploads/2022/02/img_61ff06abf3934.png.webp)
 Great VPS is opened now!
 ## Installing dependencies
