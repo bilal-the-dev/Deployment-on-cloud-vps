@@ -52,4 +52,6 @@ Few steps ahead,
  -  Run `pm2 start index.js --name "myDiscordBot"` and boom its on!
  ![vps](https://cdn.writebots.com/wp-content/uploads/2022/02/img_61ff0ad607fb1.png.webp)
 
- You can close the terminal but bot will still work.
+ You can close the terminal and bot will still work :D
+
+If you face any problem, please open a issue.
